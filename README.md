@@ -44,25 +44,25 @@ So, the final model had the following features.
 
 ## Compiling, Training, and Evaluating the Model
 
-- The initial analysis had 2 layers, with 80 neurons in first hidden layer and 30 neurons in the second hidden layer. The model used two different activation functions- relu and sigmoid.
+1. The initial analysis had 2 layers, with 80 neurons in first hidden layer and 30 neurons in the second hidden layer. The model used two different activation functions- relu and sigmoid.
 
 ![imige](https://github.com/jennykardashov/deep-learning-challenge/blob/main/Screenshots/2.png)
 
-- The target predictive accuracy was 73%
+2. The target predictive accuracy was 73%
 
 ![imige](https://github.com/jennykardashov/deep-learning-challenge/blob/main/Screenshots/3.png)
 
-- In order to increase the performance, further adjustments were made to optimize the model by removing the features “STATUS” and “SPECIAL_CONSIDERATIONS“ and added the feature “NAME”. • Created binning for the rare occurrences in the columns “AFFLIATION “and “NAME”.
+3. In order to increase the performance, further adjustments were made to optimize the model by removing the features “STATUS” and “SPECIAL_CONSIDERATIONS“ and added the feature “NAME”. • Created binning for the rare occurrences in the columns “AFFLIATION “and “NAME”.
 
 ![imige](https://github.com/jennykardashov/deep-learning-challenge/blob/main/Screenshots/4.png)
 
 ![imige](https://github.com/jennykardashov/deep-learning-challenge/blob/main/Screenshots/5.png)
 
-- Added more neurons to the hidden layers. • Used 3rd hidden layer. • Used different activation functions for the hidden layers.
+4. Added more neurons to the hidden layers. • Used 3rd hidden layer. • Used different activation functions for the hidden layers.
 
 ![imige](https://github.com/jennykardashov/deep-learning-challenge/blob/main/Screenshots/6.png)
 
-- The model exceeded the target performance of 75%.
+5. The model exceeded the target performance of 75%.
 
 ![imige](https://github.com/jennykardashov/deep-learning-challenge/blob/main/Screenshots/7.png)
 
