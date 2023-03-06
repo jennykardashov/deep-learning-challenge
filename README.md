@@ -27,6 +27,8 @@ The purpose of the analysis is to create a binary classifier, using the features
 - STATUS-it had 34294 number of 1’s and 5 in number of 0’s.
 - SPECIAL_CONSIDERATIONS-it had 34272 number of N values and 27 Y values.
 
+![imige](https://github.com/jennykardashov/deep-learning-challenge/blob/main/Screenshots/1.png)
+
 The above two features were removed and added NAME feature
 
 So, the final model had the following features.
